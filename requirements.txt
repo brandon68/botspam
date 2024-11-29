@@ -13,7 +13,6 @@ pyls-spyder==0.4.0
 PyQt5==5.15.10
 PyQtWebEngine==5.15.6
 pyTelegramBotAPI==4.24.0
-pywin32==305.1
 selenium==4.26.1
 setuptools==75.1.0
 telebot==0.0.5
